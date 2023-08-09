@@ -27,7 +27,7 @@ How we share and disseminate knowledge
 - Now here role is to think about how to drive disruption, bring research into products
   - in the midst of this was the pandemic/COVID.
 - AI is more of an internal disruption than an external one
-  - Spotify: "Today has been a great year in AI"
+  - Spotify CEO: "Today has been a great year in AI"
 - Fall 2022: Meeting with Sam Altman getting to try out GPT-4 for the first time. Had to drive to campus to try it out because it was so secretive.
   - Your job is to get this into all of Microsoft's products
   - Driving home, had to pull over and scream because it was so amazing

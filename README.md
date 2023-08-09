@@ -10,10 +10,28 @@ I attended [KDD 2023](https://kdd.org/kdd2023/) which was held in Long Beach, CA
 - Day 2
     - [Notes](./day2/day2_all.md)
 - Day 3 
-    - [Ed Chi Keynote](./day3/ed_chi_keynote.md)
+    - [Ed Chi Keynote](./day3/ed_chi_keynote/ed_chi_keynote.md) and some of the [slides](./day3/ed_chi_keynote/slides/)
+        - 8-year tech cycles led to breakthroughs in web, search, mobile & AI (1991, 1999, 2007, 2016). We're overdue for another breakthrough but LLMs will bring about the next one.
+        - We had all the pieces for LLMs back in 2016 (deep learning models that could caption images)
+        - Outlines the timeline of Large Language Models. The future: LLMs augmented with tools, humans with the tool-assisted LLMs will lead to augmented human intelligenceO
+        - Key Idea: Teaching LLMs the way we teach kids led to key-breakthroughs like Chain-of-Thought Prompting, Self-consistency decoding, and Least-to-most Prompting
+        - LLMs+Reasoning Key Ideas:
+            - Chain-of-thought prompting: ‹question, explanation, answer›
+            - Self-consistency: solve multiple times and choose most common answer
+            - Least-to-most prompting: decompose and solve subproblems
+            - Instruction finetuning: teach LLMs to follow instructions
+        - LLMs augmented with tools are capable of reasoning via language
+
     - LLM Day Notes: Notes from Large Language Model Day with sessions spanning from 10am-5:30pm on 2023-08-08. <https://bigmodel.ai/llmday-kdd23/>
         - [From Documents to Dialogues: How LLMs are Shaping the Future of Work - Jaime Teevan (Microsoft)](./day3/llm_day_jaime_teevan.md)
+            - Described the secretive meeting where Sam Altman demo'd GPT-4 for the first time. On the drive home she had to pull over and scream because Jaime recognized the implications of the technology.
+            - **Just like how everyone uses the internet, everyone will use language models**
+            - There is knowledge in conversations, chat history. How to synthesize all of this knowledge? Process of grounding (initial few prompts) to grounded knowledge.
         - [Teach language models to reason (Denny Zhou (Google DeepMind))](./day3/llm_day_denny_zhou.md)
+            - The thing that is missing from traditional ML is reasoning. Humans can learn from a few examples because humans can reason. ML requires thousands of examples.
+            - Created a toy example "last-letter-concatenation" task that is difficult for ML and LLMs but trivial for humans. From this example came Chain-of-thought prompting, Self-consistency and least-to-most prompting
+            - Key idea of instruction-tuning: making a big prompt by combining prompts from different tasks, and then using it for any task. The big prompt is typically too large for one context window so these instruction pairs are used to fine-tune the model through instruction-tuning where then the instructions are encoded as weights in the model!
+            - LMs as tool makers: save cost while more accurate
         - [Llama 2: Open Foundation and Fine-Tuned Chat Models - Vedanuj Goswami (Meta FAIR)](./day3/llm_day_vedanuj.md)
         - [From GLM-130B to ChatGLM - Peng Zhang (Zhipu AI)](./day3/llm_day_peng_zheng.md)
         - [The large language model renaissance: paradigms and challenges - Jason Wei (OpenAI)](./day3/llm_day_jason_wei.md)
