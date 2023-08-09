@@ -2,8 +2,9 @@
 
 I attended [KDD 2023](https://kdd.org/kdd2023/) which was held in Long Beach, CA from Aug 6-10. 
 - Day 1 - I didn't attend
-- Day 2 - There were half-day workshops organized around a topic. The two I attended were about LLMs (because I'm interested and it's relevant to my work) and Causal Inference (because I haven't used causal machine learning techniques in practice before and wanted exposure).
-- Day 3, I attended Ed Chi's keynote and a half-day session with various speakers about Language Models.
+- Day 2 (2023-08-07) - There were half-day workshops organized around a topic. The two I attended were about LLMs (because I'm interested and it's relevant to my work) and Causal Inference (because I haven't used causal machine learning techniques in practice before and wanted exposure).
+- Day 3 (2023-08-08), I attended Ed Chi's keynote and a half-day session with various speakers about Language Models.
+- Day 4 (2023-08-09), I attended Eric Horzvitz's keynote.
 
 # Notes
 
