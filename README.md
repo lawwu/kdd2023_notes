@@ -4,7 +4,7 @@ I attended [KDD 2023](https://kdd.org/kdd2023/) which was held in Long Beach, CA
 - Day 1 - I didn't attend
 - Day 2 (2023-08-07) - There were half-day workshops organized around a topic. The two I attended were about LLMs (because I'm interested and it's relevant to my work) and Causal Inference (because I haven't used causal machine learning techniques in practice before and wanted exposure).
 - Day 3 (2023-08-08), I attended Ed Chi's keynote and a half-day session with various speakers about Language Models.
-- Day 4 (2023-08-09), I attended Eric Horzvitz's keynote.
+- Day 4 (2023-08-09), I attended Eric Horvitz's keynote.
 
 # Notes
 
@@ -39,6 +39,7 @@ I attended [KDD 2023](https://kdd.org/kdd2023/) which was held in Long Beach, CA
         - [Panel - Paradigm Shifts in the Era of LLMs: Opportunities and Challenges in Academia, Industry, and Society](./day3/llm_day_panel.md)
 - Day 4
     - [People and Machines: Pathways to Deeper Human-AI Synergy - Eric Horvitz, Microsoft](./day4/keynote_eric_horvitz.md)
+
 # Day 2 Schedule
 
 | Time                          | Speaker                                                                                               | Title                                                                                                                         |
