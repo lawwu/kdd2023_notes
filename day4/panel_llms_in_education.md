@@ -20,7 +20,6 @@
 - Self-paced mastery based learning
 - Biggest opportunity: A tutor for every student. An assistant for every teacher.
 - Benjamin Bloom - 2 sigma problem - if students had a tutor they would be 2 sigmas above average
-- 
 - Students asking questions of a character in a book
     - Ask questions of Charlotte or Louis (Trumpet of the Swan)  
     - 1-1 help without a direct answer
