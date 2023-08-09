@@ -74,8 +74,8 @@ I attended [KDD 2023](https://kdd.org/kdd2023/) which was held in Long Beach, CA
     - [People and Machines: Pathways to Deeper Human-AI Synergy - Eric Horvitz, Microsoft](./day4/keynote_eric_horvitz.md)
     - Pretrained Language Representations for Text Understanding: A Weakly-Supervised Perspective <https://yumeng5.github.io/kdd23-tutorial/>
         - [Notes](./day4/pretrained_llm_nlu_workshop/notes.md)
-    - Education panel on LLMs
-        - [Notes](./day4/panel_llms_in_education.md)
+    - [LLMs in Education: Opportunities and Challenges](./day4/panel_llms_in_education.md)
+    
 
 # Day 2 Schedule
 
