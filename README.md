@@ -3,15 +3,21 @@
 I attended [KDD 2023](https://kdd.org/kdd2023/) which was held in Long Beach, CA from Aug 6-10. 
 - Day 1 - I didn't attend
 - Day 2 - There were half-day workshops organized around a topic. The two I attended were about LLMs (because I'm interested and it's relevant to my work) and Causal Inference (because I haven't used causal machine learning techniques in practice before and wanted exposure).
-- For Day 3, I attended Ed Chi's keynote and a half-day session with various speakers about Language Models.
+- Day 3, I attended Ed Chi's keynote and a half-day session with various speakers about Language Models.
 
 # Notes
 
 - Day 2
     - [Notes](./day2/day2_all.md)
-- Day 3
+- Day 3 
     - [Ed Chi Keynote](./day3/ed_chi_keynote.md)
-    - [LLM Day Notes](./day3/llm_day.md)
+    - LLM Day Notes: Notes from Large Language Model Day with sessions spanning from 10am-5:30pm on 2023-08-08. <https://bigmodel.ai/llmday-kdd23/>
+        - [From Documents to Dialogues: How LLMs are Shaping the Future of Work - Jaime Teevan (Microsoft)](./day3/llm_day_jaime_teevan.md)
+        - [Teach language models to reason (Denny Zhou (Google DeepMind))](./day3/llm_day_denny_zhou.md)
+        - [Llama 2: Open Foundation and Fine-Tuned Chat Models - Vedanuj Goswami (Meta FAIR)](./day3/llm_day_vedanuj.md)
+        - [From GLM-130B to ChatGLM - Peng Zhang (Zhipu AI)](./day3/llm_day_peng_zheng.md)
+        - [The large language model renaissance: paradigms and challenges - Jason Wei (OpenAI)](./day3/llm_day_jason_wei.md)
+        - [Panel - Paradigm Shifts in the Era of LLMs: Opportunities and Challenges in Academia, Industry, and Society](./day3/llm_day_panel.md)
 
 
 # Day 2 Schedule

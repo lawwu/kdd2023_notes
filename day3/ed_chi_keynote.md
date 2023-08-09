@@ -13,7 +13,7 @@ Notes from Ed Chi's keynote at KDD 2023, 2023-08-08
 - By 2016, image recognition by machines/AI was already super-human, 3% error rate vs 5% error rate
 - What changed about deep learning to make it a useful method?
 - Getting comfortable with revolutions: as humans we couldn't fly 100 years ago. But now, we get delayed 30 minutes and get annoyed.
-  - Arthur C Clarke quote
+  - "Any sufficiently advanced technology is indistinguishable from magic." - Arthur C Clarke
   - "Any commonplace technology is not magic!" - Ed Chi's corollary
 
 #  LLM-based chatbots and asssistants 
@@ -22,9 +22,10 @@ Notes from Ed Chi's keynote at KDD 2023, 2023-08-08
   - 2014: sequence to sequence learning with neural networks
   - 2017: Attention is all you need
   - 2020: Towards a Human-like Open Domain Chatbot
-  - 2022: LaMDA: Language Model for Dialogue Applications
+  - 2022-01: LaMDA: Language Model for Dialogue Applications
   - 2022-01: Chain-of-Thought Prompting Elicits Reasoning in LLMs
-TODO: See picture for other things
+  - 2022-02: Finetuned Language Models are Zero-shot learners
+  - 2022-04: PaLM: Scaling Language Models with Pathways
 
 - Multi-task language models
 - LaMDA
@@ -113,19 +114,22 @@ TODO: See slide
 
 ### Reasoning Summary
 
-TODO: See slide
+- Chain-of-thought prompting: ‹question, explanation, answer›
+- Self-consistency: solve multiple times and choose most common answer
+- Least-to-most prompting: decompose and solve subproblems
+- Instruction finetuning: teach LLMs to follow instructions
 
 # Future Challenges for LLMs
 
-Interesting he made a comment, thanking OpenAI for releasing ChatGPT because that was the impetus for Google's LaMDA team being able to release Bard into the marketplace. As an outisder, it's fascinating thinking about what those internal discussions must've been like.
+Interesting he made a comment, thanking OpenAI for releasing ChatGPT because that was the impetus for Google's LaMDA team being able to release Bard into the marketplace. As an outsider, it's fascinating thinking about what those internal discussions must've been like.
 
 ## Responsibility and Safety
 
 - Constitutional AI - instruction tuning is one way to help keep LLMs safe
 
 ## Factuality, Grounding, and Attribution
-- Grounding and Attribution of Answers
-- RARR: Retrofit Attribution using Research and Revision
+- Retrofit Attribution using Research and Revision (RARR): Aligning generated answers with passages in source documents.
+- Given a generated passage x, uses a three-stage approach to annotate x with retrieved evidences e
 
 ## Human <-> AI Content Loop and Ecosystem
 - Many reasons for identifying machine-generated content - e.g. avoid loops of using LLM-generated examples for future LLMs
