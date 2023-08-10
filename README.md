@@ -25,6 +25,9 @@ I attended [KDD 2023](https://kdd.org/kdd2023/) which was held in Long Beach, CA
         - Part V: Advanced Text Mining Applications ([Slides](./day4/pretrained_llm_nlu_workshop/slides/Part5.pdf))
         - https://github.com/mickeysjm/awesome-taxonomy - a previous student from their research group maintains this repo
     - [LLMs in Education: Opportunities and Challenges](./day4/panel_llms_in_education.md)
+- Day 5
+    - [Keynote: The Next Frontier in Machine Learning - Mihaela van der Schaar](./day5/keynote_next_frontier_ml.md)
+
 
 # Schedules
 
