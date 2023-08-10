@@ -19,3 +19,11 @@
    - We have showed a strong impossibility result: LIME, S, and I are deviation-agnostic, and hence, not suitable for anomaly attribution.
    - We have also uncovered a relationship between LIME, Sv, and IG for the first
 time.
+
+
+# Doubly Robust AUC Optimization against Noisy and Adversarial Samples
+
+Paper: https://dl.acm.org/doi/10.1145/3580305.3599316
+Abstract: Area under the ROC curve (AUC) is an important and widely used metric in machine learning especially for imbalanced datasets. In current practical learning problems, not only adversarial samples but also noisy samples seriously threaten the performance of learning models. Nowadays, there have been a lot of research works proposed to defend the adversarial samples and noisy samples separately. Unfortunately, to the best of our knowledge, none of them with AUC optimization can secure against the two kinds of harmful samples simultaneously. To fill this gap and also address the challenge, in this paper, we propose a novel doubly robust dAUC optimization (DRAUC) algorithm. Specifically, we first exploit the deep integration of self-paced learning and adversarial training under the framework of AUC optimization, and provide a statistical upper bound to the AUC adversarial risk. Inspired by the statistical upper bound, we propose our optimization objective followed by an efficient alternatively stochastic descent algorithm, which can effectively improve the performance of learning models by guarding against adversarial samples and noisy samples. Experimental results on several standard datasets demonstrate that our DRAUC algorithm has better noise robustness and adversarial robustness than the state-of-the-art algorithms.
+
+- Contribution: first AUC optimization algo robust against adversarial examples
