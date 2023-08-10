@@ -36,7 +36,7 @@ I attended [KDD 2023](https://kdd.org/kdd2023/) which was held in Long Beach, CA
         - [Llama 2: Open Foundation and Fine-Tuned Chat Models - Vedanuj Goswami (Meta FAIR)](./day3/llm_day_vedanuj.md)
         - [From GLM-130B to ChatGLM - Peng Zhang (Zhipu AI)](./day3/llm_day_peng_zheng.md)
         - [The large language model renaissance: paradigms and challenges - Jason Wei (OpenAI)](./day3/llm_day/jason_wei/llm_day_jason_wei.md)
-            - Fascinating how he made observations about how his field (AI Research) is going to change because of LLMs across 4 facets of LLMs: scaling laws, emergent abilities, and reasoning via prompting. Jason, working at the intersection of LLMs and AI Research has a good view into how LLMs will change the field of AI Research. We need this sort of thinking applied in other fields to get a sense for how to answer the question "How will LLMs change the future of work?"
+            - Fascinating how he made observations about how his field (AI Research) is going to change because of LLMs across 3 facets of LLMs: scaling laws, emergent abilities, and reasoning via prompting. Jason, working at the intersection of LLMs and AI Research has a good view into how LLMs will change the field of AI Research. We need this sort of thinking applied in other fields to get a sense for how to answer the question "How will LLMs change the future of work?"
 
                 ### 1. Scaling Laws:
                 Scaling is a predictable and vital aspect of improving AI performance. How will this affect AI Research work?
@@ -68,6 +68,14 @@ I attended [KDD 2023](https://kdd.org/kdd2023/) which was held in Long Beach, CA
                     - Type 2 tasks: harder to evaluate / debug models
                     - Task specification via natural language prompt
                     - Black magic of AI = prompt engineering
+                
+                ### Potential Areas for research:
+
+                - Evaluation - Goal: give holistic diagnostic of strengths and limitations
+                - Tool use - Goal: enable Al to interact with the world
+                - Factuality - Goal: reduce hallucinations. cite sources, calibration
+                - Super-alignment - Goal: ensure Al systems much smarter than humans follow human intent
+                - Multimodality - Goal: enable Al to see and hear
 
         - [Panel - Paradigm Shifts in the Era of LLMs: Opportunities and Challenges in Academia, Industry, and Society](./day3/llm_day_panel.md)
 - Day 4

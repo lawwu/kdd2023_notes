@@ -1,5 +1,7 @@
 # The large language model renaissance: paradigms and challenges - Jason Wei (OpenAI)
 
+Slides are not public yet but these are [slides](https://docs.google.com/presentation/d/1hQF8EXNdePFPpws_jxwqHWi5ohV_TeGL17WIjvUvG6E/edit?resourcekey=0-xA6WdGyYp1EexLgoXgjOjg#slide=id.g16197112905_0_158) from a similar talk Jason gave.
+
 - Timeline
   - 2018 - BERT
   - 2023 - ChatGPT - ask in natural language
