@@ -2,6 +2,50 @@
 
 Slides are not public yet but these are [slides](https://docs.google.com/presentation/d/1hQF8EXNdePFPpws_jxwqHWi5ohV_TeGL17WIjvUvG6E/edit?resourcekey=0-xA6WdGyYp1EexLgoXgjOjg#slide=id.g16197112905_0_158) from a similar talk Jason gave.
 
+# Takeaways from Jason Wei's talk
+  - Fascinating how he made observations about how his field (AI Research) is going to change because of LLMs across 3 facets of LLMs: scaling laws, emergent abilities, and reasoning via prompting. Jason, working at the intersection of LLMs and AI Research has a good view into how LLMs will change the field of AI Research. We need this sort of thinking applied in other fields to get a sense for how to answer the question "How will LLMs change the future of work?"
+
+### 1. Scaling Laws:
+Scaling is a predictable and vital aspect of improving AI performance. How will this affect AI Research work?
+- 5 years ago: Many individual or small-scale projects, bottom-up research culture, run the code once; then submit to NeurIPS
+- Technical paradigm shift (b/c/ training the best models require scaling compute and data)
+- Now: Teams usually have dozens of people, everyone works together toward one focused goal (top down set?), tooling and infra matter a lot (increased value in being a good software engineering)
+
+### 2. Emergent Abilities:
+Emergent abilities refer to capabilities arising only in larger models (tens of billions of parameters). How will this affect AI Research work?
+
+- 5 years ago
+    - a few benchmarks for many years (CIFAR, ImageNet)
+    - easy to rank models
+    - task-specific architectures, data and protocols
+- Technical paradigm shift: a single model performs many tasks without the tasks being explicitly specified at pre-training
+- Now
+    - Need to create new benchmarks all the time
+    - Hard to decide if one model is universally better
+    - Create general technology; relatively easy to pivot, AI work now aims for general technologies, not relying on task-specific architectures and data.
+
+### 3. Reasoning via Prompting:
+Reasoning and chain-of-thought prompting have transformed AI's approach to multi-step reasoning:
+- 5 years ago:
+    - Type 1 tasks: easy to evaluate, debug models
+    - Task specification via training data and protocols
+    - Black magic of AI = hyperparameter tuning
+- Technical paradigm shift: LLMs can perform multi-step reasoning via prompting
+- Now
+    - Type 2 tasks: harder to evaluate / debug models
+    - Task specification via natural language prompt
+    - Black magic of AI = prompt engineering
+
+### Potential Areas for research:
+
+- Evaluation - Goal: give holistic diagnostic of strengths and limitations
+- Tool use - Goal: enable Al to interact with the world
+- Factuality - Goal: reduce hallucinations. cite sources, calibration
+- Super-alignment - Goal: ensure Al systems much smarter than humans follow human intent
+- Multimodality - Goal: enable Al to see and hear
+
+# Notes
+
 - Timeline
   - 2018 - BERT
   - 2023 - ChatGPT - ask in natural language
