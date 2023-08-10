@@ -1,5 +1,21 @@
 Notes from Ed Chi's keynote at KDD 2023, 2023-08-08
 
+# Takeaways
+
+- 8-year tech cycles led to breakthroughs in web, search, mobile & AI (1991, 1999, 2007, 2016). We're overdue for another breakthrough but LLMs will bring about the next one.
+- We had all the pieces for LLMs back in 2016 (deep learning models that could caption images)
+- Outlines the timeline of Large Language Models. The future: LLMs augmented with tools, humans with the tool-assisted LLMs will lead to augmented human intelligenceO
+- Key Idea: Teaching LLMs the way we teach kids led to key-breakthroughs like Chain-of-Thought Prompting, Self-consistency decoding, and Least-to-most Prompting
+- LLMs+Reasoning Key Ideas:
+    - Chain-of-thought prompting: ‹question, explanation, answer›
+    - Self-consistency: solve multiple times and choose most common answer
+    - Least-to-most prompting: decompose and solve subproblems
+    - Instruction finetuning: teach LLMs to follow instructions
+- LLMs augmented with tools are capable of reasoning via language
+
+
+# Notes 
+
 # 8 year cycles
 - 1991 - invention of web browser
 - 1999 - invention of Google and search

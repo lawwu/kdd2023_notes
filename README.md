@@ -1,51 +1,34 @@
 # kdd2023_notes
 
-I attended [KDD 2023](https://kdd.org/kdd2023/) which was held in Long Beach, CA from Aug 6-10. 
-- Day 1 - I didn't attend
-- Day 2 (2023-08-07) - There were half-day workshops organized around a topic. The two I attended were about LLMs (because I'm interested and it's relevant to my work) and Causal Inference (because I haven't used causal machine learning techniques in practice before and wanted exposure).
-- Day 3 (2023-08-08), I attended Ed Chi's keynote and a half-day session with various speakers about Language Models.
-- Day 4 (2023-08-09), I attended Eric Horvitz's keynote.
-
-# Notes
+I attended [KDD 2023](https://kdd.org/kdd2023/) which was held in Long Beach, CA from Aug 6-10. Here are some notes from the conference, mainly for my sake.
 
 - Day 2
     - [Notes](./day2/day2_all.md)
 - Day 3 
     - [Ed Chi Keynote](./day3/ed_chi_keynote/ed_chi_keynote.md) and some of the [slides](./day3/ed_chi_keynote/slides/)
-        - 8-year tech cycles led to breakthroughs in web, search, mobile & AI (1991, 1999, 2007, 2016). We're overdue for another breakthrough but LLMs will bring about the next one.
-        - We had all the pieces for LLMs back in 2016 (deep learning models that could caption images)
-        - Outlines the timeline of Large Language Models. The future: LLMs augmented with tools, humans with the tool-assisted LLMs will lead to augmented human intelligenceO
-        - Key Idea: Teaching LLMs the way we teach kids led to key-breakthroughs like Chain-of-Thought Prompting, Self-consistency decoding, and Least-to-most Prompting
-        - LLMs+Reasoning Key Ideas:
-            - Chain-of-thought prompting: ‹question, explanation, answer›
-            - Self-consistency: solve multiple times and choose most common answer
-            - Least-to-most prompting: decompose and solve subproblems
-            - Instruction finetuning: teach LLMs to follow instructions
-        - LLMs augmented with tools are capable of reasoning via language
-
     - LLM Day Notes: Notes from Large Language Model Day with sessions spanning from 10am-5:30pm on 2023-08-08. <https://bigmodel.ai/llmday-kdd23/>
-        - [From Documents to Dialogues: How LLMs are Shaping the Future of Work - Jaime Teevan (Microsoft)](./day3/llm_day_jaime_teevan.md)
-            - Described the secretive meeting where Sam Altman demo'd GPT-4 for the first time. On the drive home she had to pull over and scream because Jaime recognized the implications of the technology.
-            - **Just like how everyone uses the internet, everyone will use language models**
-            - There is knowledge in conversations, chat history. How to synthesize all of this knowledge? Process of grounding (initial few prompts) to grounded knowledge.
-        - [Teach language models to reason (Denny Zhou (Google DeepMind))](./day3/llm_day_denny_zhou.md)
-            - The thing that is missing from traditional ML is reasoning. Humans can learn from a few examples because humans can reason. ML requires thousands of examples.
-            - Created a toy example "last-letter-concatenation" task that is difficult for ML and LLMs but trivial for humans. From this example came Chain-of-thought prompting, Self-consistency and least-to-most prompting
-            - Key idea of instruction-tuning: making a big prompt by combining prompts from different tasks, and then using it for any task. The big prompt is typically too large for one context window so these instruction pairs are used to fine-tune the model through instruction-tuning where then the instructions are encoded as weights in the model!
-            - LMs as tool makers: save cost while more accurate
-        - [Llama 2: Open Foundation and Fine-Tuned Chat Models - Vedanuj Goswami (Meta FAIR)](./day3/llm_day_vedanuj.md)
-        - [From GLM-130B to ChatGLM - Peng Zhang (Zhipu AI)](./day3/llm_day_peng_zheng.md)
+        - [From Documents to Dialogues: How LLMs are Shaping the Future of Work - Jaime Teevan (Microsoft)](./day3/jaime_teevan/llm_day_jaime_teevan.md)
+        - [Teach language models to reason (Denny Zhou (Google DeepMind))](./day3/denny_zhou/llm_day_denny_zhou.md)
+        - [Llama 2: Open Foundation and Fine-Tuned Chat Models - Vedanuj Goswami (Meta FAIR)](./day3/vedanuj/llm_day_vedanuj.md)
+        - [From GLM-130B to ChatGLM - Peng Zhang (Zhipu AI)](./day3/peng_zheng/llm_day_peng_zheng.md)
         - [The large language model renaissance: paradigms and challenges - Jason Wei (OpenAI)](./day3/llm_day/jason_wei/llm_day_jason_wei.md)
-        - [Panel - Paradigm Shifts in the Era of LLMs: Opportunities and Challenges in Academia, Industry, and Society](./day3/llm_day_panel.md)
+        - [Panel - Paradigm Shifts in the Era of LLMs: Opportunities and Challenges in Academia, Industry, and Society](./day3/panel/llm_day_panel.md)
 - Day 4
     - [People and Machines: Pathways to Deeper Human-AI Synergy - Eric Horvitz, Microsoft](./day4/keynote_eric_horvitz.md)
     - Pretrained Language Representations for Text Understanding: A Weakly-Supervised Perspective
-        - [Slides](https://yumeng5.github.io/kdd23-tutorial/)
-        - [Notes](./day4/pretrained_llm_nlu_workshop/notes.md)
+        - [Webpage](https://yumeng5.github.io/kdd23-tutorial/)
+        - Introduction [Slides](./day4/pretrained_llm_nlu_workshop/slides/Part0.pdf)
+        - Part I: Language Foundation Models [Slides](./day4/pretrained_llm_nlu_workshop/slides/Part1.pdf)
+        - Part II: Embedding-Driven Topic Discovery [Slides](./day4/pretrained_llm_nlu_workshop/slides/Part2.pdf)
+        - Part III: Weakly-Supervised Text Classification [Slides](./day4/pretrained_llm_nlu_workshop/slides/Part3.pdf)
+        - Part IV: Language Models for Knowledge Base Construction [Slides](./day4/pretrained_llm_nlu_workshop/slides/Part4.pdf)
+        - Part V: Advanced Text Mining Applications [Slides](./day4/pretrained_llm_nlu_workshop/slides/Part5.pdf)
+        - [My Notes](./day4/pretrained_llm_nlu_workshop/notes.md) - but the slides are better
     - [LLMs in Education: Opportunities and Challenges](./day4/panel_llms_in_education.md)
 
+# Schedules
 
-# Day 2 Schedule
+## Day 2 Schedule
 
 | Time                          | Speaker                                                                                               | Title                                                                                                                         |
 |-------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
@@ -66,7 +49,7 @@ I attended [KDD 2023](https://kdd.org/kdd2023/) which was held in Long Beach, CA
 | 12:10-12:20PM, 2023/08/07 (PDT) | Haopeng Zhang, Xiao Liu and Jiawei Zhang                                                              | Paper-9 : Extractive Summarization via ChatGPT for Faithful Summary Generation                                                |
 | 12:20-12:30PM, 2023/08/07 (PDT) | Closing Remarks                                                                                      |                                                                                                                               |
 
-# Day 3 Schedule - LLM Day
+## Day 3 Schedule - LLM Day
 
 | Time         | Event                                              | Speaker/Details                                                                                                 |
 |--------------|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
