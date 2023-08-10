@@ -106,3 +106,23 @@
     - Host: How we learn and what we learn is going to change. A liberal arts education is supposed to teach you how to learn.
 
 ## Q&A
+
+- **Eric: We're suffering from denial of service of attacks on our attention!**
+- Thought-inducers vs. Thought-indexers. 
+    - Shawn: Failure is important. How can we shorten the feedback loop? [Lawrence - I wonder if shortening this feedback loop in an manager/employee setting]
+    - Ed: Customization of the approach to teaching individual learners. The reality of our education system is our teachers are limited so we parallelize it 30x. LLMs can take on different styles of conversation (provoking, supportive). Positive reinforcement learning is one way. There's a real emotional component to educational. What would it be to have different styles of Khanmigo?
+        - Shawn: A student asked Khanmigo to talk to him like he's a Gen Z. Used the term "Let's get that bread"
+- What should kids learn in their educational upbringing in the era of LLMs?
+    - Madeleine: Seeing kids take control of their learning, son is starting Kindergarten tomorrow. 
+    - [Lawrence - reading proficiency and speed to understand LLM output, knowing how to prompt the system and how LLMs work]
+    - Ed: We tend to think of education as knowledge acquisition. One of the hats I can wear is a manager at a tech company. What skills do they have? Knowledge / technical skills are important. There are many other factors: relationship management, emotional intelligence. Are there relationship coaches in school helping students learn these things? Probably not. Maybe we shouldn't be teaching coaching syntax. Teach how to collaborate without being territorial, project management. 
+- **My question is about the human experience? I learned about logorithmic table. There's a certain intuition that you get from that experience you don't get from a computer. You can extrapolate that to previous decades. Technology is chipping away at that human experience. Being a human now is different than 30-40 years ago. There's a siege on the human experience. Where do you think goes?** [Lawrence - What a great question!]
+    - Eric: Understanding the different ways curriculum is designed or why Hungarians and Romanians are good at math, to learn what the optimal way we sequence curriculum. But I agree we may be under siege.
+    - Ed: One of the tasks of Bard is to generate poems. Crowd sourced workers, reach the limit of what they are capable. Who defines what a good poem? Part of being human is understanding beauty. So teaching beauty is important. 
+        - How do you evaluate beauty?
+        - Does this cheapen valentines day in the future?
+        - I have no idea. We are painting a rosy picture because the technology is so awesome and it cheapens our understanding of beauty.
+- As a professor, encourage all students use LLMs. Once you understand more of this tool, educational gap. The students need to learn how to prompt engineering. This technological skill gap is huge. How as educators can we bring these tools to a wide-enough audience? 
+    - If you only submit the final report, you only get 50%. 
+    - Submit all of the interactions with the LLM as an appendix.
+    - Shawn: There will be a diverse set of UIs like Khanmigo with a base prompt.
