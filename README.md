@@ -15,7 +15,7 @@ I attended [KDD 2023](https://kdd.org/kdd2023/) which was held in Long Beach, CA
         - [Panel - Paradigm Shifts in the Era of LLMs: Opportunities and Challenges in Academia, Industry, and Society](./day3/panel/llm_day_panel.md)
 - Day 4
     - [People and Machines: Pathways to Deeper Human-AI Synergy - Eric Horvitz, Microsoft](./day4/keynote_eric_horvitz.md)
-    - Pretrained Language Representations for Text Understanding: A Weakly-Supervised Perspective
+    - [Pretrained Language Representations for Text Understanding: A Weakly-Supervised Perspective](./day4/pretrained_llm_nlu_workshop/notes.md) - though the slides below are much better
         - [Webpage](https://yumeng5.github.io/kdd23-tutorial/)
         - Introduction [Slides](./day4/pretrained_llm_nlu_workshop/slides/Part0.pdf)
         - Part I: Language Foundation Models [Slides](./day4/pretrained_llm_nlu_workshop/slides/Part1.pdf)
@@ -23,7 +23,6 @@ I attended [KDD 2023](https://kdd.org/kdd2023/) which was held in Long Beach, CA
         - Part III: Weakly-Supervised Text Classification [Slides](./day4/pretrained_llm_nlu_workshop/slides/Part3.pdf)
         - Part IV: Language Models for Knowledge Base Construction [Slides](./day4/pretrained_llm_nlu_workshop/slides/Part4.pdf)
         - Part V: Advanced Text Mining Applications [Slides](./day4/pretrained_llm_nlu_workshop/slides/Part5.pdf)
-        - [My Notes](./day4/pretrained_llm_nlu_workshop/notes.md) - but the slides are better
     - [LLMs in Education: Opportunities and Challenges](./day4/panel_llms_in_education.md)
 
 # Schedules
