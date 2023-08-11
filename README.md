@@ -5,7 +5,7 @@ I attended [KDD 2023](https://kdd.org/kdd2023/) which was held in Long Beach, CA
 - Day 2
     - [Notes](./day2/day2_all.md)
 - Day 3 
-    - [Ed Chi Keynote](./day3/ed_chi_keynote/ed_chi_keynote.md) and some of the [slides](./day3/ed_chi_keynote/slides/)
+    - [The LLM (Large Language Model) Revolution: Implications from Chatbots and Tool-use to Reasoning - Ed Chi](./day3/ed_chi_keynote/ed_chi_keynote.md) and some of the [slides](./day3/ed_chi_keynote/slides/)
     - LLM Day Notes: Notes from Large Language Model Day with sessions spanning from 10am-5:30pm on 2023-08-08. <https://bigmodel.ai/llmday-kdd23/>
         - [From Documents to Dialogues: How LLMs are Shaping the Future of Work - Jaime Teevan (Microsoft)](./day3/jaime_teevan/llm_day_jaime_teevan.md)
         - [Teach language models to reason (Denny Zhou (Google DeepMind))](./day3/denny_zhou/llm_day_denny_zhou.md)
