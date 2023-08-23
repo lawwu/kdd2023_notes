@@ -12,7 +12,7 @@ I attended [KDD 2023](https://kdd.org/kdd2023/) which was held in Long Beach, CA
         - [Llama 2: Open Foundation and Fine-Tuned Chat Models - Vedanuj Goswami (Meta FAIR)](./day3/vedanuj/llm_day_vedanuj.md)
         - [From GLM-130B to ChatGLM - Peng Zhang (Zhipu AI)](./day3/peng_zheng/llm_day_peng_zheng.md)
         - [The large language model renaissance: paradigms and challenges - Jason Wei (OpenAI)](./day3/llm_day/jason_wei/llm_day_jason_wei.md)
-        - [Panel - Paradigm Shifts in the Era of LLMs: Opportunities and Challenges in Academia, Industry, and Society](./day3/panel/llm_day_panel.md)
+        - [Panel - Paradigm Shifts in the Era of LLMs: Opportunities and Challenges in Academia, Industry, and Society](./day3/llm_day/panel/llm_day_panel.md)
 - Day 4
     - [People and Machines: Pathways to Deeper Human-AI Synergy - Eric Horvitz, Microsoft](./day4/keynote_eric_horvitz.md)
     - [Pretrained Language Representations for Text Understanding: A Weakly-Supervised Perspective](./day4/pretrained_llm_nlu_workshop/notes.md) - though the slides below are much better. There was an intro and Parts 1-3 were presented. Part 4 was rushed through. Part 5 was not presented at KDD.
