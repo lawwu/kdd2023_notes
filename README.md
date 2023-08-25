@@ -7,10 +7,10 @@ I attended [KDD 2023](https://kdd.org/kdd2023/) which was held in Long Beach, CA
 - Day 3 
     - [The LLM (Large Language Model) Revolution: Implications from Chatbots and Tool-use to Reasoning - Ed Chi](./day3/ed_chi_keynote/ed_chi_keynote.md) and some of the [slides](./day3/ed_chi_keynote/slides/)
     - LLM Day Notes: Notes from Large Language Model Day with sessions spanning from 10am-5:30pm on 2023-08-08. <https://bigmodel.ai/llmday-kdd23/>
-        - [From Documents to Dialogues: How LLMs are Shaping the Future of Work - Jaime Teevan (Microsoft)](./day3/jaime_teevan/llm_day_jaime_teevan.md)
-        - [Teach language models to reason (Denny Zhou (Google DeepMind))](./day3/denny_zhou/llm_day_denny_zhou.md)
-        - [Llama 2: Open Foundation and Fine-Tuned Chat Models - Vedanuj Goswami (Meta FAIR)](./day3/vedanuj/llm_day_vedanuj.md)
-        - [From GLM-130B to ChatGLM - Peng Zhang (Zhipu AI)](./day3/peng_zheng/llm_day_peng_zheng.md)
+        - [From Documents to Dialogues: How LLMs are Shaping the Future of Work - Jaime Teevan (Microsoft)](./day3/llm_day/jamie_teevan/llm_day_jaime_teevan.md)
+        - [Teach language models to reason (Denny Zhou (Google DeepMind))](./day3/llm_day/denny_zhou/llm_day_denny_zhou.md)
+        - [Llama 2: Open Foundation and Fine-Tuned Chat Models - Vedanuj Goswami (Meta FAIR)](./day3/llm_day/vedanuj/llm_day_vedanuj.md)
+        - [From GLM-130B to ChatGLM - Peng Zhang (Zhipu AI)](./day3/llm_day/peng_zheng/llm_day_peng_zheng.md)
         - [The large language model renaissance: paradigms and challenges - Jason Wei (OpenAI)](./day3/llm_day/jason_wei/llm_day_jason_wei.md)
         - [Panel - Paradigm Shifts in the Era of LLMs: Opportunities and Challenges in Academia, Industry, and Society](./day3/llm_day/panel/llm_day_panel.md)
 - Day 4
