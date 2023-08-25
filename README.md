@@ -11,7 +11,7 @@ I attended [KDD 2023](https://kdd.org/kdd2023/) which was held in Long Beach, CA
         - [Teach language models to reason (Denny Zhou (Google DeepMind))](./day3/llm_day/denny_zhou/llm_day_denny_zhou.md)
         - [Llama 2: Open Foundation and Fine-Tuned Chat Models - Vedanuj Goswami (Meta FAIR)](./day3/llm_day/vedanuj/llm_day_vedanuj.md)
         - [From GLM-130B to ChatGLM - Peng Zhang (Zhipu AI)](./day3/llm_day/peng_zheng/llm_day_peng_zheng.md)
-        - [The large language model renaissance: paradigms and challenges - Jason Wei (OpenAI)](./day3/llm_day/jason_wei/llm_day_jason_wei.md)
+        - [The large language model renaissance: paradigms and challenges - Jason Wei (OpenAI)](./day3/llm_day/jason_wei/llm_day_jason_wei.md) - [Slides](https://docs.google.com/presentation/d/1BF0icnNER3Fy4v-9RSm0fKqXx3QuvU0dIi6mp6VpZHg/edit#slide=id.g16197112905_0_0)
         - [Panel - Paradigm Shifts in the Era of LLMs: Opportunities and Challenges in Academia, Industry, and Society](./day3/llm_day/panel/llm_day_panel.md)
 - Day 4
     - [People and Machines: Pathways to Deeper Human-AI Synergy - Eric Horvitz, Microsoft](./day4/keynote_eric_horvitz.md)
